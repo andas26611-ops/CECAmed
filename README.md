@@ -1,5 +1,6 @@
 # CECAmed - Sistema de Gestión de Clínica
-
+# Hacer el repositorio público
+gh repo edit andas26611-ops/CECAmed --visibility public
 ## Descripción
 
 CECAmed es un sistema integral de gestión para clínicas médicas desarrollado en Java con JavaFX. Proporciona funcionalidades completas para la administración de pacientes, citas médicas, historial clínico y auditoría de operaciones.
